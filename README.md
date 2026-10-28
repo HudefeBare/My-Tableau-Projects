@@ -80,7 +80,7 @@ For example:
 
 ## 📸 Employment Dashboard
 
-![Employment Dashboard](images/employment-dashboard.png)
+<img width="535" height="460" alt="Employment Dashboard" src="https://github.com/user-attachments/assets/c7711e9d-3a5e-48ea-909d-e6a4cb155609" />
 
 [Link to My Dashboard](https://public.tableau.com/app/profile/hudefe.bare/viz/JobsbyIndustry-Dashboard/Dashboard1)
 
