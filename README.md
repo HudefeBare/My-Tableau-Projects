@@ -88,7 +88,7 @@ EMSI job change dashboard: jobs by city (bar and pie), the top 10 industries by 
 
 ## 📸 Health Dashboard
 
-![Health Dashboard](images/health-dashboard.png)
+<img width="2034" height="1609" alt="image" src="https://github.com/user-attachments/assets/c92bf305-56b8-41e1-99f0-fb5e07e49bd6" />
 
 [Link to My Dashboard](https://public.tableau.com/app/profile/hudefe.bare/viz/GlobalHealthIndustry-Dashboard/Dashboard1)
 
