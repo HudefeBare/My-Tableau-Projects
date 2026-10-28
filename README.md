@@ -96,7 +96,7 @@ Global health dashboard: life expectancy by continent, life expectancy vs BMI, m
 
 ## 📸 Spotify Dashboard
 
-![Spotify Dashboard](images/spotify-dashboard.png)
+<img width="2080" height="1399" alt="image" src="https://github.com/user-attachments/assets/e8c3b5a7-0b12-4f3c-a7e9-ec2b8fabca59" />
 
 [Link to My Dashboard](https://public.tableau.com/app/profile/hudefe.bare/viz/AnalysingrelationshipcorrelationbetweenPopularityandValueusingSpotifyDataset/Dashboard1)
 
